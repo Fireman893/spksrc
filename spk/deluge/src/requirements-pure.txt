@@ -13,7 +13,7 @@ constantly==15.1.0
 hyperlink==21.0.0
 idna==3.3
 incremental==21.3.0
-Mako==1.2.1
+Mako==1.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
